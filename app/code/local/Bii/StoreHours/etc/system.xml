@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+  <sections>
+    <general>
+      <groups>
+        <store_information translate="label">
+          <fields>
+            <store_hours translate="label">
+              <label>Store Hours</label>
+              <frontend_type>text</frontend_type>
+              <sort_order>20</sort_order>
+              <show_in_default>1</show_in_default>
+              <show_in_website>1</show_in_website>
+              <show_in_store>1</show_in_store>
+              <comment>Will be used in transactional emails</comment>
+            </store_hours>
+          </fields>
+        </store_information>
+      </groups>
+    </general>
+  </sections>
+</config>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Adds a "Store hours" field to System > Configuration > General > Store Information -->
+<config>
+  <modules>
+    <Bii_StoreHours>
+      <version>0.1.0</version>
+    </Bii_StoreHours>
+  </modules>
+</config>
