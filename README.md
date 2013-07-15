@@ -15,7 +15,7 @@ This Magento extension adds a "Store Hours" field to System &rsaquo; Configurati
 
 After setting your store hours, update your email templates (System &rsaquo; Transactional Emails) to use `{{config path='general/store_information/store_hours'}}` anywhere that you'd like to display your store hours.
 
-For a full explanation of the extension's usage please read ["Set store hours in Magento admin area" on the Buckeye Interactive blog](http://www.buckeyeinteractive.com/2013/07/store-hours-in-magento-admin/).
+<!--For a full explanation of the extension's usage please read ["Set store hours in Magento admin area" on the Buckeye Interactive blog](http://www.buckeyeinteractive.com/2013/07/store-hours-in-magento-admin/).-->
 
 ## License
 
